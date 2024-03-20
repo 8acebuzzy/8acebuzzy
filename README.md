@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software engineer from Guizhou University, adept in Go and Java.  
+Codeforces participant(id:Dae2Mon.):https://codeforces.com/profile/Dae2Mon.
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=8acebuzzy)
